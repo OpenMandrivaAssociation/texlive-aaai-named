@@ -1,6 +1,6 @@
 Name:		texlive-aaai-named
 Version:	52470
-Release:	1
+Release:	2
 Summary:	BibTeX style for AAAI
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/aaai-named
